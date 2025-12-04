@@ -1,153 +1,253 @@
-# 🛡️ Parley Chat — Privacy Policy
-**Effective Date:** September 7, 2025  
-**Last Updated:** September 7, 2025
+🛡️ Parley Chat — Privacy Policy
 
-Welcome to **Parley Chat**! Your privacy is important to us. This policy explains how we handle your information.
+Effective Date: September 7, 2025
+Last Updated: September 7, 2025
 
----
+Welcome to Parley Chat!
+Your privacy matters deeply to us. This document explains how we handle, protect, and use your information when you use Parley Chat.
+We’ve designed this policy to be clear, transparent, and developer-friendly.
 
-## 📌 Overview
-Parley Chat is a privacy-focused messaging platform built with:
+📌 Overview
 
-- End-to-end encryption  
-- Minimal data retention  
-- Zero data selling  
-- Transparent security practices  
+Parley Chat is built around privacy-first communication, using end-to-end encryption, minimal data retention, and transparent security processes. We do not sell or rent your personal data — ever.
 
----
+📥 1. Information We Collect
 
-## 📥 1. Information We Collect
+We only collect what is necessary to operate a secure messaging platform.
 
-### 1.1 Account Information
-- Username  
-- Display name  
-- Profile photo (optional)  
-- Phone or email (if used for verification)
+1.1 Account Information
+Data	Purpose
+Username / Display Name	Identify your account
+Profile Photo (optional)	Personalization
+Phone / Email (if used)	Verification, login
+1.2 Messages & Media
 
-### 1.2 Messages & Media
-- All messages/media are **end-to-end encrypted**  
-- We **cannot** read your messages  
-- Delivered messages are **immediately deleted**  
-- Undelivered messages may be stored for up to **30 days**
+All messages, images, files, and calls are end-to-end encrypted (E2EE).
 
-### 1.3 Device & Technical Data
-- IP address  
-- Device type & OS version  
-- Crash logs  
-- App version & diagnostics  
+We cannot read your messages.
 
-### 1.4 Usage Data
-- Feature interactions  
-- Session duration  
-- Device performance metrics  
+Delivered messages are deleted from our servers immediately.
 
-### 1.5 Optional Permissions
-- Contacts (never stored)  
-- Camera, microphone, photos  
-- Notifications  
+Undelivered messages may be temporarily stored for up to 30 days.
 
----
+1.3 Device & Technical Data
 
-## ⚙️ 2. How We Use Your Information
-- Deliver encrypted messages  
-- Authenticate your account  
-- Improve app performance and stability  
-- Detect spam/abuse  
-- Comply with legal obligations  
+Used only for security, diagnostics, and performance:
 
----
+IP address
 
-## 🔄 3. When We Share Information
+Device model & OS
 
-We **never sell your data**.
+Crash logs and error reports
 
-We may share information only with:
+App version & network data
 
-### 3.1 Service Providers
-- Hosting providers  
-- Cloud storage vendors  
-- Notification services  
-- Crash analytics tools  
+1.4 Usage Data
 
-### 3.2 Legal Requirements
-We may disclose data if required by law.  
-**Encrypted messages cannot be provided.**
+Includes:
 
-### 3.3 Business Transfers
-If Parley Chat undergoes acquisition or merger.
+Features used
 
----
+Session durations
 
-## 🔐 4. Data Security
-We use:
-- End-to-end encryption  
-- TLS/HTTPS  
-- Secure server infrastructure  
-- Limited access controls  
-- Routine audits and penetration tests  
+Interaction data (anonymous or pseudonymized)
 
----
+Used strictly to improve app performance and user experience.
 
-## 📦 5. Data Retention
+1.5 Optional Permissions
 
-### Messages
-- Delivered → deleted instantly  
-- Undelivered → kept up to 30 days  
+Parley Chat may request:
 
-### Account Data
-- Stored until the user deletes their account  
+Contacts (for friend discovery — never stored)
 
-### Logs
-- Kept temporarily for security and operations  
+Camera / Microphone (for calls and media)
 
----
+Photos (for sending media)
 
-## 👤 6. Your Rights
-You may request:
-- Access  
-- Correction  
-- Deletion  
-- Data export  
-- Restrictions on processing  
+Notifications (message alerts)
 
-Contact: **support@parley.live**
+You remain in full control.
 
----
+⚙️ 2. How We Use Your Information (continued)
+✔ Improve performance
 
-## 👶 7. Children’s Privacy
-Parley Chat is **not for children under 13**.  
-We delete any such data immediately.
+Optimize speed, UI, and responsiveness
 
----
+Diagnose crashes and technical issues
 
-## 🌍 8. International Data Transfers
-We follow:
-- SCCs  
-- DPAs  
-- Industry-standard encryption  
+Enhance overall stability of Parley Chat
 
----
+✔ Maintain safety & security
 
-## 🔗 9. Third-Party Services
-We integrate only essential third-party systems such as:
-- Push notification services  
-- Cloud storage  
-- Analytics (privacy-friendly)  
+Detect spam, abuse, and suspicious activity
 
-Each third-party service has its own policies.
+Prevent unauthorized access
 
----
+Protect the platform and its users
 
-## 🔄 10. Policy Updates
-We may update this Privacy Policy.  
-Changes will be announced in-app or via our website.
+✔ Comply with legal requirements
 
----
+Respond to lawful requests
 
-## 📬 11. Contact Us
-Email: **support@parley.live**  
-Website: https://parley.live
+Enforce Terms of Service
 
----
+Maintain minimal operational logs as required by regulations
 
-© 2025 Parley Labs. All rights reserved.
+🔄 3. When We Share Information
+
+We never sell or rent your personal information.
+Sharing only occurs when strictly necessary:
+
+3.1 Service Providers
+
+We may share limited data with trusted partners who support:
+
+Hosting & infrastructure
+
+Push notifications
+
+Crash/analytics systems
+
+Cloud backups (optional)
+
+All partners are bound by strict confidentiality and data-processing agreements.
+
+3.2 Legal Obligations
+
+We may disclose non-encrypted metadata if required by:
+
+Subpoena
+
+Court order
+
+Applicable law
+
+Encrypted message content is never accessible — even to us.
+
+3.3 Business Transfers
+
+If Parley Chat is acquired or merged, you will be notified before your data is transferred.
+
+🔐 4. Data Security
+
+We apply industry-standard and modern security practices:
+
+End-to-end encryption (E2EE) for all messages
+
+TLS/HTTPS for all network traffic
+
+Salted + hashed credentials
+
+Zero-knowledge message architecture
+
+Limited server access with strict authentication controls
+
+Regular penetration tests & security audits
+
+Even with these measures, no service is 100% immune to threats.
+We encourage enabling device-level security features.
+
+📦 5. Data Retention
+Messages
+
+Delivered messages → Deleted immediately
+
+Undelivered messages → Stored for up to 30 days, then removed automatically
+
+Media and attachments follow the same policy
+
+Account Data
+
+Retained until your account is deleted.
+
+Logs & Diagnostics
+
+Kept for a limited time to:
+
+Detect abuse
+
+Ensure platform stability
+
+Comply with security requirements
+
+Backups (optional)
+
+If you enable cloud backup, your encrypted backups stay until manually deleted.
+
+👤 6. Your Privacy Rights
+
+Depending on your location (GDPR, CCPA/CPRA, etc.), you may have the right to:
+
+Access your personal data
+
+Request corrections
+
+Request deletion of account/data
+
+Export your data (portability)
+
+Restrict certain data uses
+
+Opt-out of data collection (where applicable)
+
+To submit a rights request, contact us at:
+📧 support@parley.live
+
+We will respond within legally required timeframes.
+
+👶 7. Children’s Privacy
+
+Parley Chat is not intended for children under 13
+(or the minimum age required in your region).
+
+We do not knowingly collect information from children.
+If we become aware of such data, it will be deleted promptly.
+
+🌍 8. International Data Transfers
+
+We may process and store data in multiple hosting regions.
+All transfers follow international compliance frameworks including:
+
+Standard Contractual Clauses (SCCs)
+
+Data Processing Agreements (DPAs)
+
+Encryption in transit and at rest
+
+🔗 9. Third-Party Services
+
+Parley Chat may integrate with necessary third-party services such as:
+
+Push notification systems
+
+Cloud storage providers
+
+Crash analytics tools
+
+Each has its own privacy practices. We recommend reviewing their policies when using connected features.
+
+🔄 10. Policy Updates
+
+We may update this Privacy Policy as needed.
+When changes occur, we will notify users via:
+
+App update notices
+
+In-app banners
+
+Updated Effective Date above
+
+Continued use of Parley Chat signifies acceptance of any updated policy.
+
+📬 11. Contact Us
+
+For questions, concerns, or data requests:
+📧 Email: support@parley.live
+
+🌐 Website: https://parley.live
+
+🧩 12. Open Source & Transparency
+
+If Parley Chat includes open-source components, their licenses and privacy implications are documented in the /LICENSE and /docs directories.
+
+We welcome transparency and community questions about privacy and security.
